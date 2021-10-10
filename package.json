@@ -10,11 +10,19 @@
   "dependencies": {
     "date-fns": "^2.25.0",
     "gray-matter": "^4.0.3",
+    "js-base64": "^3.7.2",
     "next": "^11.0.0",
-    "npm": "^8.0.0",
+    "node": "^16.1.0",
+    "node-fetch": "^2.6.1",
+    "npm": "^7.11.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "remark": "^13.0.0",
     "remark-html": "^13.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.3",
+    "@types/react": "^17.0.27",
+    "typescript": "^4.4.3"
   }
 }
